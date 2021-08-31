@@ -36,6 +36,6 @@ data from the database must be used.
 9.) As a Reviewer, I want the application delivered in a zipped Git repo. The Git repo may not be published to a public location.  
 10.) As a Reviewer, I want the application only to be optimized for mobile devices and in Portrait mode.  
 11.) As a Reviewer, I want a report of User Stories that couldn't be finished or have a comment. Please add it to the README.md of your project
-12.) As a User, I want the temperatures to be displayed in chronological order.
-13.) As a Reviewer, I want the app to support a minimum SDK version of 21 and target + compile with the latest SDK version.  
+12.) As a User, I want the temperatures to be displayed in chronological order.  
+13.) As a Reviewer, I want the app to support a minimum SDK version of 21 and target + compile with the latest SDK version.    
 14.) As a Reviewer, I value the usage of Kotlin over Java. If there is a reason for writing Java, please specify it in the README.md.  
